@@ -29,8 +29,36 @@
       </div>
     </div>
   </header>
-  <section id="feature-lft">
-    <img src="assets/images/shh-feature-1.png" alt="Feature" class="img-feature">
+  <section id="feature-lft" class="clearfix">
+    <div class="container">
+      <img src="assets/images/shh-feature-1.png" alt="Feature" class="img-feature">
+      <div class="keyFeatures">
+        <div class="feature">
+          <i class="fab fa-wordpress-simple fa-2x icon"></i>
+          <div class="description">
+            <h3 class="title">Wordpress integratie</h3>
+            <div class="text">Door de integratie van Wordpress kunnen leden zelf nieuwsberichten toevoegen en wijzigen.</div>
+          </div>
+        </div>
+        <div class="feature">
+          <i class="fas fa-bars fa-2x icon"></i>
+          <div class="description">
+            <h3 class="title">Plakkend menu</h3>
+            <div class="text">Een menu dat altijd bovenaan het scherm blijft, zodat navigeren mogelijk is wanneer gewenst.</div>
+          </div>
+        </div>
+        <div class="feature">
+          <i class="fas fa-phone-volume fa-2x icon"></i>
+          <div class="description">
+            <h3 class="title">Call-to-action</h3>
+            <div class="text">Een duidelijke call-to-action knop in het menu verwerkt, die het beoogde doel gaat behalen.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section id="feature-rt">
+    
   </section>
 <script src="assets/js/main.js"></script>
 </body>
