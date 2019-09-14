@@ -48,7 +48,7 @@
                     </ul>
                     Dit alles en meer is in dit concept verwerkt. Lees meer over dit project door op onderstaande knop te klikken.
                 </div>
-                <a href="#" class="case-btn btn-grey hvr-float-shadow">Meer over dit project<i class="fas fa-arrow-right"></i></a>
+                <a href="shh.php" class="case-btn btn-grey hvr-float-shadow">Meer over dit project<i class="fas fa-arrow-right"></i></a>
             </div>
         </div>
     </section> <!-- CLOSE CASE SHH -->
