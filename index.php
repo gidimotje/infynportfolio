@@ -60,7 +60,7 @@
                 <div class="text">
                     Voor Challenge uit Uden heeft Infyn de volledige website mogen realiseren. Door het commerciële doel te combineren met een moderne en open uitstraling wordt er meer rendement behaald dan bij concurrenten. Met het juiste gebruik van de middelen die er zijn kan deze klant zien hoeveel bezoekers er op de website zijn geweest over een bepaalde periode, maar ook hoeveel contactaanvragen er plaats hebben gevonden. Dat maakt conversie berekenen wel heel gemakkelijk.
                 </div>
-                <a href="#" class="case-btn btn-gold hvr-float-shadow">Meer over dit project<i class="fas fa-arrow-right"></i></a>
+                <a href="challenge.php" class="case-btn btn-gold hvr-float-shadow">Meer over dit project<i class="fas fa-arrow-right"></i></a>
             </div>
         </div>
     </section> <!-- CLOSE CASE CHALLENGE -->
